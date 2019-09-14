@@ -12,7 +12,7 @@ import javax.persistence.Table;
 @Table(name = "users")
 class User {
     @Id
-    private long id;
+    private Long id;
 
     @Column(name = "name", nullable = false)
     private String name;
