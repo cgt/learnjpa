@@ -1,4 +1,4 @@
-package name.cgt.demo.jpatesting;
+package name.cgt.demo.learnjpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

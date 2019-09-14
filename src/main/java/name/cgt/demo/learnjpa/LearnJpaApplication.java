@@ -1,13 +1,13 @@
-package name.cgt.demo.jpatesting;
+package name.cgt.demo.learnjpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JpatestingApplication {
+public class LearnJpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JpatestingApplication.class, args);
+		SpringApplication.run(LearnJpaApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package name.cgt.demo.jpatesting;
+package name.cgt.demo.learnjpa;
 
 import lombok.Data;
 
